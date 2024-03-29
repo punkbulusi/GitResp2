@@ -3,4 +3,5 @@ public class Student {
     private String name2;
     private int age1;
     private String name;
+    private int age3;
 }
